@@ -34,9 +34,11 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k-pulkit&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-pulkit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=k-pulkit&theme=light" width="600"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-pulkit&hide=Jupyter%20Notebook&theme=vision-friendly-light&hide_progress=true&langs_count=12" width="400"></a> |
+|---|---|
+
+
 
 ---
 
