@@ -4,10 +4,6 @@
 <a href="https://www.linkedin.com/in/k-pulkit"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
 ### :technologist: &nbsp;About Me :
 
 I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, Canada.
@@ -16,6 +12,17 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - 🌱 Exploring new technologies
 - ⚡ In my free time I like to make hobby projects
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-pulkit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/k-pulkit)
+- ✏️ Checkout my [blog](https://www.pulkitkapoor.com)
+
+---
+
+### 🔥 &nbsp; My Stats :
+
+| Github | Leetcode |
+|---|---|
+| <a href="https://github.com/k-pulkit"><img src="http://github-readme-streak-stats.herokuapp.com?user=k-pulkit&theme=light" width="600"></a> | <a href="https://leetcode.com/pulkit42041/"><img width="400" src="https://leetcard.jacoblin.cool/pulkit42041?theme=light&font=Roboto%20Serif&ext=heatmap" /></a> |
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-pulkit&hide=Jupyter%20Notebook&theme=vision-friendly-light&hide_progress=true&langs_count=12" width="300">
 
 ---
 
@@ -42,13 +49,6 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </p>
 
 ---
-
-### 🔥 &nbsp; My Stats :
-
-| <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=k-pulkit&theme=light" width="600"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-pulkit&hide=Jupyter%20Notebook&theme=vision-friendly-light&hide_progress=true&langs_count=12" width="400"></a> |
-|---|---|
-
-
 
 ### ✍️ Blog Posts : 
 - [My personal website](https://www.pulkitkapoor.com)
